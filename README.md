@@ -12,6 +12,10 @@
 #### Cron jobs
 - [cron job](https://kubernetes.io/docs/concepts/workloads/controllers/cron-jobs/)
 - [automated tasks with cron job](https://kubernetes.io/docs/tasks/job/automated-tasks-with-cron-jobs/)
+## Observability
+### Elasticsearch
+#### Watchers
+- [email](https://www.elastic.co/guide/en/elasticsearch/reference/current/actions-email.html)
 ## ...
 ### ...
 #### ...
