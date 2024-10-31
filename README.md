@@ -16,6 +16,9 @@
 ### Elasticsearch
 #### Watchers
 - [email](https://www.elastic.co/guide/en/elasticsearch/reference/current/actions-email.html)
+## AWS
+### RDS
+#### [Aurora Global Database](https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/aurora-global-database.html)
 ## ...
 ### ...
 #### ...
