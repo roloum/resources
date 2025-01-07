@@ -19,6 +19,9 @@
 ## AWS
 ### RDS
 #### [Aurora Global Database](https://docs.aws.amazon.com/AmazonRDS/latest/AuroraUserGuide/aurora-global-database.html)
+## Kafka
+### Configuration
+#### [transactional.id.expiration.ms](https://docs.confluent.io/platform/current/installation/configuration/broker-configs.html#transactional-id-expiration-ms)
 ## ...
 ### ...
 #### ...
